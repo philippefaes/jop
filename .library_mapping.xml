@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.sigasi.hdt.vhdl.scoping.librarymapping.model:LibraryMappings xmlns:com.sigasi.hdt.vhdl.scoping.librarymapping.model="com.sigasi.hdt.vhdl.scoping.librarymapping" Version="2">
+  <Mappings Location="" Library="dead_code"/>
+  <Mappings Location="vhdl/memory/mem_sc_new.vhd" Library="dead_code"/>
+  <Mappings Location="vhdl/paper/csp/scio_csp.vhd" Library="dead_code"/>
+  <Mappings Location="ext/gaisler/devices.vhd" Library="gaisler"/>
+  <Mappings Location="ext/gaisler/memctrl.vhd" Library="gaisler"/>
+  <Mappings Location="ext/gaisler/amba.vhd" Library="grlib"/>
+  <Mappings Location="ext/gaisler/stdlib.vhd" Library="grlib"/>
+  <Mappings Location="ext/gaisler/version.vhd" Library="grlib"/>
+  <Mappings Location="Common Libraries/IEEE" Library="ieee"/>
+  <Mappings Location="Common Libraries/IEEE Synopsys" Library="ieee"/>
+  <Mappings Location="ext/gaisler/srctrl.vhd" Library="jop"/>
+  <Mappings Location="vhdl/cache/ocache.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/bcfetch.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/cache.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/core.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/decode.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/fetch.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/jop_types.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/jopcpu.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/mul.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/shift.vhd" Library="jop"/>
+  <Mappings Location="vhdl/core/stack.vhd" Library="jop"/>
+  <Mappings Location="vhdl/memory/mem_sc.vhd" Library="jop"/>
+  <Mappings Location="vhdl/memory/sdpram.vhd" Library="jop"/>
+  <Mappings Location="vhdl/scio/sc_isa.vhd" Library="jop"/>
+  <Mappings Location="vhdl/scio/sc_sys.vhd" Library="jop"/>
+  <Mappings Location="vhdl/scio/sc_uart_tal.vhd" Library="jop"/>
+  <Mappings Location="vhdl/scio/scio_baseio.vhd" Library="jop"/>
+  <Mappings Location="vhdl/scio/sigdel.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simpcon/sc2ahbsl.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simpcon/sc2avalon.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simpcon/sc_pack.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simulation/bytecode.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simulation/microcode.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simulation/sim_jbc.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simulation/sim_jop_config_80.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simulation/sim_pll.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simulation/sim_ram.vhd" Library="jop"/>
+  <Mappings Location="vhdl/simulation/sim_rom.vhd" Library="jop"/>
+  <Mappings Location="vhdl/top/jop_amba.vhd" Library="jop"/>
+  <Mappings Location="vhdl/top/jop_avalon.vhd" Library="jop"/>
+  <Mappings Location="vhdl/top/jop_config_global.vhd" Library="jop"/>
+  <Mappings Location="xilinx/ml401a/vlabifhw/fifo.vhd" Library="jop"/>
+  <Mappings Location="xilinx/ml401a/vlabifhw/fifo_ms.vhd" Library="jop"/>
+  <Mappings Location="Common Libraries" Library="not mapped"/>
+  <Mappings Location="Common Libraries/STD" Library="std"/>
+  <Mappings Location="ext/gaisler/gencomp.vhd" Library="techmap"/>
+</com.sigasi.hdt.vhdl.scoping.librarymapping.model:LibraryMappings>
